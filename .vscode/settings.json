@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "liveServer.settings.port": 5501,
+    "wolf.disableHotModeWarning": true,
+    "python.linting.enabled": false
+}
